@@ -217,7 +217,6 @@ export default function BasicTable() {
             </CardContent>
           </Card>
         </Grid>
-
         <Grid xs={4}>
           <Card style={{ margin: 15 }}>
             <h3 style={{ marginLeft: 15, marginBottom: -20 }}>Select Amount</h3>
@@ -261,7 +260,6 @@ export default function BasicTable() {
             </CardContent>
           </Card>
         </Grid>
-
         <Grid xs={4}>
           <Card style={{ margin: 15 }}>
             <h3 style={{ marginLeft: 15, marginBottom: -20 }}>Select Date</h3>
